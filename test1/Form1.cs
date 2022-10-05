@@ -19,7 +19,7 @@ namespace test1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi.");
+            MessageBox.Show("早安你好認同請分享.");
         }
     }
 }
